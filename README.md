@@ -18,7 +18,8 @@ Moving Object Detection is a technique used in Artificial Vision. It consists of
 ![image](https://user-images.githubusercontent.com/76814511/187644440-0e7f4371-12d6-47f9-9b50-f55985e92219.png)
 ![image](https://user-images.githubusercontent.com/76814511/187644505-c9efe797-a754-41f7-b37a-30aace49d992.png)
 overview
-![image](https://user-images.githubusercontent.com/76814511/187644625-bdc84c2e-a358-49c6-8508-810a9a4cdeb8.png)
+![image](https://user-images.githubusercontent.com/76814511/187644997-ea25b565-edf6-479a-96d3-eaa10e742bfd.png)
+
 
 
 
