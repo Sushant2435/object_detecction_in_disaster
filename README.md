@@ -1,4 +1,4 @@
-# object_detecction_in_disaster
+# object_detection_in_disaster
 PROBLEM STATEMENT & OBJECTIVE
 To aid the problem of tracking humans   easily & quickly without risking more human lives in desperate times like disasters or terrorist attacks.
 
